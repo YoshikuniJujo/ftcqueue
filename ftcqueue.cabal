@@ -5,8 +5,10 @@ cabal-version: 2.2
 -- see: https://github.com/sol/hpack
 
 name:           ftcqueue
-version:        0.1.0.0
+version:        0.1.0.1
+synopsis:       FTC Queue
 description:    Please see the README on GitHub at <https://github.com/YoshikuniJujo/ftcqueue#readme>
+category:       Data
 homepage:       https://github.com/YoshikuniJujo/ftcqueue#readme
 bug-reports:    https://github.com/YoshikuniJujo/ftcqueue/issues
 author:         Yoshikuni Jujo
@@ -17,6 +19,7 @@ license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
     README.md
+extra-doc-files:
     CHANGELOG.md
 
 source-repository head

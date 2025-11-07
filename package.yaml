@@ -1,5 +1,5 @@
 name:                ftcqueue
-version:             0.1.0.0
+version:             0.1.0.1
 github:              "YoshikuniJujo/ftcqueue"
 license:             BSD-3-Clause
 author:              "Yoshikuni Jujo"
@@ -8,11 +8,13 @@ copyright:           "(c) 2025 Yoshikuni Jujo"
 
 extra-source-files:
 - README.md
+
+extra-doc-files:
 - CHANGELOG.md
 
 # Metadata used when publishing your package
-# synopsis:            Short description of your package
-# category:            Web
+synopsis:            FTC Queue
+category:            Data
 
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
